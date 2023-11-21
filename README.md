@@ -77,7 +77,7 @@ Annually from February to December, during the 6-7 week period, social life has 
 Also you can try translating various texts by yourself.
 
 Using an AI language model like ChatGPT (GPT-3.5) as a translator has its advantages and disadvantages:
-
+-
 Advantages:
 -
 Broad Vocabulary: Trained on diverse texts, ChatGPT has a broad vocabulary, enabling it to handle various topics.
