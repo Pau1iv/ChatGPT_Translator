@@ -95,4 +95,6 @@ Complex Contexts: In cases of highly specialized or complex technical content, t
 No Clarification Questions: Unlike human translators, ChatGPT can't ask clarifying questions if the input is ambiguous, potentially leading to less accurate translations.
 Ethical Considerations: There are ethical concerns related to the use of AI, including biases present in the training data and the potential impact on employment for human translators.
 
-In summary, while ChatGPT can offer quick and reasonably accurate translations for general content, it's essential to consider its limitations, especially when dealing with highly specialized or culturally sensitive material. For critical or specialized translations, consulting a professional human translator may be necessary.
+In summary
+-
+while ChatGPT can offer quick and reasonably accurate translations for general content, it's essential to consider its limitations, especially when dealing with highly specialized or culturally sensitive material. For critical or specialized translations, consulting a professional human translator may be necessary.
